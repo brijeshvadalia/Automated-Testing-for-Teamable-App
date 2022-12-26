@@ -45,7 +45,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-![Screenshot](./screenshot/screenshot-1.png)
+>![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
 
 
