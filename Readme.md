@@ -7,8 +7,8 @@
 
 
 
-![BADGE](https://img.shields.io/badge/HTML-CSS-lightgrey)
-![BADGE](https://img.shields.io/badge/VUEJS-lightgrey)
+>![BADGE](https://img.shields.io/badge/HTML-CSS-lightgrey)
+>![BADGE](https://img.shields.io/badge/VUEJS-lightgrey)
 >![BADGE](https://img.shields.io/badge/MADE%20WITH%20FUN%20BY-BRIJESH%20VADALIA-blue)
 
 
