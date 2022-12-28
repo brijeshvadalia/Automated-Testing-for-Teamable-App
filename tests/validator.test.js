@@ -9,7 +9,6 @@ test('valid email', function() {
     const result = isInvalidEmail(testPayload)
     expect(result).toBe(false)
 })
-
 test('invalid email', function() {
     const testPayload = {
         name: "test name",
