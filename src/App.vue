@@ -94,7 +94,6 @@ img {
     display: block;
     margin-bottom: 40px;
 }
-
 div {
     margin: 40px auto;
     width: 80%;
