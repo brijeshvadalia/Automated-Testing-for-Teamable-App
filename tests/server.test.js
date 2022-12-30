@@ -15,7 +15,6 @@ test("test request with valid payload", async function() {
     expect(response.status).toBe(200)
     expect(response.body).toHaveProperty("info")
     expect(response.body.info).toBe("user profile data updated successfully")
-
     server.close()
 })
 test("test request with invalid payload", async function() {
