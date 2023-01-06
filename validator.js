@@ -7,7 +7,7 @@ function isEmptyPayload(userObject) {
     return Object.keys(userObject).length === 0
 }
 
-
+// Exporting
 module.exports = {
     isInvalidEmail,
     isEmptyPayload
