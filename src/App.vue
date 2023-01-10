@@ -34,6 +34,7 @@
     </div>
 </template>
 
+
 <script>
 import image from "./profile.jpeg"
 export default {
